@@ -4,13 +4,13 @@ This repository was created to improve and practice programming skills through s
 
 ## 👥 Contributors
 
-- **Hozifa Ahmed**  
-  [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/hozifa-ahmed-/)
-  [![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/HozifaAhmedS)
+**Hozifa Ahmed** &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16"/>](https://www.linkedin.com/in/hozifa-ahmed-/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16"/>](https://github.com/HozifaAhmedS)
 
-- **Mahmoud Awad**  
-  [![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/mahmoud-awad1/)
-  [![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/Mahmoud6426)
+**Mahmoud Awad** &nbsp;
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16"/>](https://www.linkedin.com/in/mahmoud-awad1/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="16"/>](https://github.com/Mahmoud6426)
 
 We are working together on solving problems and improving our programming skills.
 
