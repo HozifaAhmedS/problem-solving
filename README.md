@@ -2,6 +2,13 @@
 
 This repository was created to improve and practice programming skills through solving various problems and challenges.
 
+## 🎯 Goal
+
+The main goal of this repository is to continuously practice problem solving, strengthen programming fundamentals, and improve our ability to analyze and solve different types of programming problems.
+
+The checklists will be updated as we complete each platform, language, or topic.
+
+
 ## 👥 Contributors
 
 **Hozifa Ahmed** &nbsp;
@@ -61,8 +68,3 @@ We are working together on solving problems and improving our programming skills
 - [ ] Data Structures
 - [ ] Algorithms
 
-## 🎯 Goal
-
-The main goal of this repository is to continuously practice problem solving, strengthen programming fundamentals, and improve our ability to analyze and solve different types of programming problems.
-
-The checklists will be updated as we complete each platform, language, or topic.
